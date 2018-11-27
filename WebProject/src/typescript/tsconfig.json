@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "removeComments": true,
+    "outDir": "js",
+    "sourceMap": true, //указывает, что нужно сгенерировать карту сопоставлений исходного и скомпилированного кода
+    "outFile": "main.js"
+  },
+  "Files":[ // указываются файлы включаемые в проект
+    "app.ts",
+    "interfaces.ts",
+    "class.ts"
+  ],
+  "exclude": [ // исключает указанные файлы из компиляции, если файлы одновременно есть в files, то они будут компилироваться
+    "node_modules",
+    "wwwroot"
+  ]
+}

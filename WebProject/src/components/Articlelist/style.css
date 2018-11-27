@@ -1,0 +1,12 @@
+.article-list_li{
+    list-style: none;
+}
+.btn_blc{
+    margin: 2%;
+}
+.btn_blc_return{
+  position: absolute;
+  left: 5%;
+  top: 1%;
+
+}

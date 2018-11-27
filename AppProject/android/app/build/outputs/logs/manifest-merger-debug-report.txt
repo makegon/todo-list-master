@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.57.5] /home/makegon/.gradle/caches/transforms-1/files-1.1/react-native-0.57.5.aar/d9272f713228b6bbfa7aa9c0be0f3a22/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/makegon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/5781f54932da2eebbf730616210473cf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/makegon/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/7b72ad8fd606efce9d7dcb44ed506901/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/makegon/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/363047d552ebe3bbe200e4b6c4bb36a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/makegon/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/b8720aa3e1aba8ebfe9d9c375d28183b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/makegon/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1f4788d211504518e9faa661dcd95f2b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/makegon/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/c9ea276f6cea4c5273b32df98a62b3fc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/makegon/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/bb88b580aec8a7060dc6d1bfddde4153/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/makegon/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/c7585e83f417beab407112e3edc78bd0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/makegon/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/d1e00c9509235391f6a3f22af426e8b2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/makegon/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/88fe2aa90f846ee1ce87bb90007ba3ba/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/makegon/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/7d1993b66a097893ee68c0dc6a161be9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/makegon/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/8c41fd49825d1fdac282760599f33745/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/makegon/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/8f8224ba0ee0e7be242ce597746721cb/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /home/makegon/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/a1e7b4c92bc3c2299445aa51c22f80b6/AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/makegon/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/81a4b19998989d827da3c25e95fcbc28/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/makegon/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/7316f7e48e1e1bfa74a380388f95bb60/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/makegon/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/553b8c5dedfb703aac5a3454e99f3403/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/makegon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cb760ecb55891653131fa002c2390f18/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/makegon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b0cc4792febdf87acbefd525876bdbc7/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml:2:5-33
+		INJECTED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.5] /home/makegon/.gradle/caches/transforms-1/files-1.1/react-native-0.57.5.aar/d9272f713228b6bbfa7aa9c0be0f3a22/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.5] /home/makegon/.gradle/caches/transforms-1/files-1.1/react-native-0.57.5.aar/d9272f713228b6bbfa7aa9c0be0f3a22/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.5] /home/makegon/.gradle/caches/transforms-1/files-1.1/react-native-0.57.5.aar/d9272f713228b6bbfa7aa9c0be0f3a22/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.5] /home/makegon/.gradle/caches/transforms-1/files-1.1/react-native-0.57.5.aar/d9272f713228b6bbfa7aa9c0be0f3a22/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/makegon/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/8f8224ba0ee0e7be242ce597746721cb/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/makegon/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/8f8224ba0ee0e7be242ce597746721cb/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /home/makegon/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/a1e7b4c92bc3c2299445aa51c22f80b6/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/makegon/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/a1e7b4c92bc3c2299445aa51c22f80b6/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.awesomeproject.MainActivity
+ADDED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.57.5] /home/makegon/.gradle/caches/transforms-1/files-1.1/react-native-0.57.5.aar/d9272f713228b6bbfa7aa9c0be0f3a22/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.5] /home/makegon/.gradle/caches/transforms-1/files-1.1/react-native-0.57.5.aar/d9272f713228b6bbfa7aa9c0be0f3a22/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/makegon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/5781f54932da2eebbf730616210473cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/makegon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/5781f54932da2eebbf730616210473cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/makegon/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/7b72ad8fd606efce9d7dcb44ed506901/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/makegon/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/7b72ad8fd606efce9d7dcb44ed506901/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/makegon/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/363047d552ebe3bbe200e4b6c4bb36a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/makegon/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/363047d552ebe3bbe200e4b6c4bb36a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/makegon/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/b8720aa3e1aba8ebfe9d9c375d28183b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/makegon/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/b8720aa3e1aba8ebfe9d9c375d28183b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/makegon/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1f4788d211504518e9faa661dcd95f2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/makegon/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1f4788d211504518e9faa661dcd95f2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/makegon/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/c9ea276f6cea4c5273b32df98a62b3fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/makegon/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/c9ea276f6cea4c5273b32df98a62b3fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/makegon/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/bb88b580aec8a7060dc6d1bfddde4153/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/makegon/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/bb88b580aec8a7060dc6d1bfddde4153/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/makegon/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/c7585e83f417beab407112e3edc78bd0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/makegon/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/c7585e83f417beab407112e3edc78bd0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/makegon/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/d1e00c9509235391f6a3f22af426e8b2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/makegon/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/d1e00c9509235391f6a3f22af426e8b2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/makegon/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/88fe2aa90f846ee1ce87bb90007ba3ba/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/makegon/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/88fe2aa90f846ee1ce87bb90007ba3ba/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/makegon/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/7d1993b66a097893ee68c0dc6a161be9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/makegon/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/7d1993b66a097893ee68c0dc6a161be9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/makegon/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/8c41fd49825d1fdac282760599f33745/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/makegon/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/8c41fd49825d1fdac282760599f33745/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/makegon/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/8f8224ba0ee0e7be242ce597746721cb/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/makegon/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/8f8224ba0ee0e7be242ce597746721cb/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/makegon/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/81a4b19998989d827da3c25e95fcbc28/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/makegon/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/81a4b19998989d827da3c25e95fcbc28/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/makegon/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/7316f7e48e1e1bfa74a380388f95bb60/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/makegon/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/7316f7e48e1e1bfa74a380388f95bb60/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/makegon/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/553b8c5dedfb703aac5a3454e99f3403/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/makegon/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/553b8c5dedfb703aac5a3454e99f3403/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/makegon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cb760ecb55891653131fa002c2390f18/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/makegon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cb760ecb55891653131fa002c2390f18/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/makegon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b0cc4792febdf87acbefd525876bdbc7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/makegon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b0cc4792febdf87acbefd525876bdbc7/AndroidManifest.xml:20:5-44
+INJECTED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/makegon/todo-list-master/AppProject/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
