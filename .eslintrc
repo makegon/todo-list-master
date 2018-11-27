@@ -1,0 +1,7 @@
+{
+  "extends": ["loopback", "standard"],
+  "plugins": ["prettier"],
+  "rules": {
+    "strict": "off"
+  }
+}
